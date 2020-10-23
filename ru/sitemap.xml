@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://sogrey.github.io/Book-Hugo-Template/ru/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sogrey.github.io/Book-Hugo-Template/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://sogrey.github.io/Book-Hugo-Template/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://sogrey.github.io/Book-Hugo-Template/ru/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://sogrey.github.io/Book-Hugo-Template/ru/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sogrey.github.io/Book-Hugo-Template/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://sogrey.github.io/Book-Hugo-Template/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://sogrey.github.io/Book-Hugo-Template/ru/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://sogrey.github.io/Book-Hugo-Template/ru/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sogrey.github.io/Book-Hugo-Template/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://sogrey.github.io/Book-Hugo-Template/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://sogrey.github.io/Book-Hugo-Template/ru/tags/"
+                />
+  </url>
+  
+</urlset>

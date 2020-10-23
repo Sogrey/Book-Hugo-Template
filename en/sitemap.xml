@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://sogrey.github.io/Book-Hugo-Template/docs/page-one/</loc>
+    <lastmod>2020-10-24T00:21:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sogrey.github.io/Book-Hugo-Template/docs/page-two/</loc>
+    <lastmod>2020-10-24T00:21:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sogrey.github.io/Book-Hugo-Template/docs/</loc>
+    <lastmod>2020-10-24T00:21:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sogrey.github.io/Book-Hugo-Template/posts/posts-one/</loc>
+    <lastmod>2020-10-24T00:21:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sogrey.github.io/Book-Hugo-Template/posts/posts-two/</loc>
+    <lastmod>2020-10-24T00:21:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sogrey.github.io/Book-Hugo-Template/posts/</loc>
+    <lastmod>2020-10-24T00:21:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sogrey.github.io/Book-Hugo-Template/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://sogrey.github.io/Book-Hugo-Template/ru/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://sogrey.github.io/Book-Hugo-Template/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sogrey.github.io/Book-Hugo-Template/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://sogrey.github.io/Book-Hugo-Template/</loc>
+    <lastmod>2020-10-24T00:22:16+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://sogrey.github.io/Book-Hugo-Template/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://sogrey.github.io/Book-Hugo-Template/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sogrey.github.io/Book-Hugo-Template/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://sogrey.github.io/Book-Hugo-Template/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://sogrey.github.io/Book-Hugo-Template/ru/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://sogrey.github.io/Book-Hugo-Template/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sogrey.github.io/Book-Hugo-Template/tags/"
+                />
+  </url>
+  
+</urlset>
