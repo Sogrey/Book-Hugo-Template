@@ -21,7 +21,7 @@ git add -A
 git commit -m 'deploy master'
 
 # 如果你想要部署到 https://USERNAME.github.io
-git push -f https://github.com/Sogrey/HugoSite.git master
+git push -f https://github.com/Sogrey/Book-Hugo-Template.git master
 echo -e ""
 echo -e "\033[32;40m [2/3] \033[0m Building static files"
 echo -e ""
@@ -42,6 +42,6 @@ git init
 git add -A
 git commit -m 'deploy gh-pages(web site)'
 
-git push -f https://github.com/Sogrey/HugoSite.git master:gh-pages
+git push -f https://github.com/Sogrey/Book-Hugo-Template.git master:gh-pages
 
 cd -
